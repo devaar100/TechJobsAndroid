@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent"
+    android:orientation="vertical"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="2dp"
+    app:cardBackgroundColor="@android:color/black"
+    android:layout_marginBottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="250dp">
+    <TextView
+        android:id="@+id/temp"
+        android:text="Ads will be shown here to support the website and application maintenance cost"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</androidx.cardview.widget.CardView>

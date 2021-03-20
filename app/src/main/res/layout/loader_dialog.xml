@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/transparent"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:gravity="center"
+        android:background="@drawable/dialog_bg_rounded"
+        android:layout_width="170dp"
+        android:layout_height="170dp">
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/img"
+            android:src="@drawable/loader"
+            android:layout_marginBottom="10dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp" />
+        <TextView
+            android:text="Fetching Jobs
+            Ready. Set. Apply."
+            android:textAlignment="center"
+            android:id="@+id/text"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TechJobs</string>
+    <string name="info">I have been a prey to missing out on important opportunities simply because I wasn\'t aware of their existence. This initiative is to help all college students out there never to miss important job listings from top-notch companies</string>
+    <string name="contact">To request job updates about companies not mentioned in company filter, to contribute or inform about missing job postings or to join this initiative drop an email or connect with us on LinkedIn</string>
+    <string name="intro">An initiative to help all college students out there never to miss important job listings from top-notch companies</string>
+    <string name="login">You can login to the app using Facebook or Google login to access bookmarked jobs on the website and receive customised job update emails</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

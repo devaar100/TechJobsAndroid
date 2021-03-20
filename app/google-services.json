@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032749279364",
+    "firebase_url": "https://techjobs-46b44.firebaseio.com",
+    "project_id": "techjobs-46b44",
+    "storage_bucket": "techjobs-46b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032749279364:android:9c414d61c2ac2159697ad1",
+        "android_client_info": {
+          "package_name": "aarnav100.developer.techjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032749279364-e0n2ahlvbv4vmolu3p32pvtfkdp46lur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aarnav100.developer.techjobs",
+            "certificate_hash": "0f91e1d7b90319336d2209833b370a69279bd439"
+          }
+        },
+        {
+          "client_id": "1032749279364-a9qeji4tdjfgo2g0sltaq8lovq8pve69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvfGEM_P1-n-m96jcdC76Gj5xBOV5pyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032749279364-a9qeji4tdjfgo2g0sltaq8lovq8pve69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
